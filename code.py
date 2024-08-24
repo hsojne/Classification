@@ -100,10 +100,6 @@ plt.xlabel('Predicted Label')
 plt.ylabel('True Label')
 plt.show()
 
-
-
-
-
 # -------------------- save file ------------------------
 
 save_df = pd.DataFrame(
