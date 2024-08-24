@@ -1,4 +1,4 @@
-# 분류 알고리즘
+# 분류 알고리즘
 
 
 ## 목표
@@ -32,20 +32,23 @@
   - Precision: 100%
   - Recall: 96.43%
   - Confusion Matrix
-  - ![Figure_1](https://github.com/user-attachments/assets/ca2c2293-1f56-4783-a873-dcfec814a603)
+  - ![Figure_1](https://github.com/user-attachments/assets/df088079-c2bd-4c0c-9cb0-f5d7c466e56b)
+
 
 - Decision Tree
   - Accuracy: 97.802%
   - Precision: 97.56%
   - Recall: 96.43%
   - Confusion Matrix
-  - ![Figure_2](https://github.com/user-attachments/assets/bb8f72d4-177e-4463-add7-4b938a9c9869)
+  - ![Figure_2](https://github.com/user-attachments/assets/e6da749b-af76-40ce-9949-044c27ad4c78)
+
  
 - Logistic Regression
   - Accuracy: 97.802%
   - Precision: 100%
   - Recall: 96.43%
   - Confusion Matrix
-  - ![Figure_3](https://github.com/user-attachments/assets/18261a0b-8a53-4c37-9dcc-d570b1b63a12)
+  - ![Figure_1](https://github.com/user-attachments/assets/ff0517f2-8890-4100-91af-be6a819cd2fc)
+
 
   
